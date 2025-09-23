@@ -5,7 +5,7 @@ Welcome to the Cyclistic Bike Share project! This repository is dedicated to ana
 ## Project Overview
 
 - **Phase 1:** Data analysis using SQL scripts to clean, transform, and extract insights from the raw bike-share data.
-- **Phase 2:** Data visualization using Power BI to communicate findings and business recommendations.
+- **Phase 2:** Data visualization using Power BI to communicate findings and business recommendations, and performing A/B test to validate the percentage difference in ride length
 
 ## Getting Started
 
